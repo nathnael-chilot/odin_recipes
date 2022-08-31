@@ -1,1 +1,2 @@
 # odin_recipes
+This is my first project with the odin project. this project is intended to apply the html that i have learned in TOP. it is also intended to put all the HTML knowledge i have been acquiring so far into practice.
